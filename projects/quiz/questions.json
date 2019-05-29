@@ -1,0 +1,85 @@
+{
+	"questions":
+	[
+		{
+			"question": "New York City Hall is in which Borough?",
+			"answer": "Manhattan",
+			"answers": [
+				"Queens",
+				"Brooklyn"
+			]
+		},
+		{
+			"question": "Which was the first baseball team in Texas to make it to the World Series?",
+			"answer": "Houston Astros",
+			"answers": [
+				"Houston Oilers",
+				"Texas Rangers"
+			]
+		},
+		{
+			"question": "Dwight D. Eisenhower was President from 1953 to 1961, but who was his Vice President?",
+			"answer": "Richard Nixon",
+			"answers": [
+				"John Kennedy",
+				"Lyndon Johnson"
+			]	
+		},
+		{
+			"question": "Which was the most successful NFL team of the decade beginning in Jan 2000 with 4 Super Bowl wins?",
+			"answer": "New England Patriots",
+			"answers": [
+				"Buffalo Bills",
+				"San Diego Chargers"
+			]
+		},
+		{
+			"question": "Why was there no World Series played in 1994?",
+			"answer": "Player's strike",
+			"answers": [
+				"No one bought tickets",
+				"Ban on baseballs"
+			]
+		},
+		{
+			"question": "Lansing is the state capital of which northern state in America?",
+			"answer": "Michigan",
+			"answers": [
+				"Ilinois",
+				"Wisconsin"
+			]
+		},
+		{
+			"question": "As of 2013 the most widely circulated newspaper in the USA was The Wall Street Journal. Which company owns it?",
+			"answer": "News Corporation",
+			"answers": [
+				"Chicago Tribune",
+				"Conde Nast"
+			]
+		},
+		{
+			"question": "Out of which city were Aerosmith formed?",
+			"answer": "Boston",
+			"answers": [
+				"New York",
+				"Los Angeles"
+			]
+		},
+		{
+			"question": "Which future president gained national fame through his role in the War of 1812, most famously where he won a decisive victory at the Battle of New Orleans?",
+			"answer": "Andrew Jackson",
+			"answers": [
+				"George Washington",
+				"Abraham Lincoln"
+			]
+		},
+		{
+			"question": "Born in Massachusetts, which painter's most famous work is 'Arrangement in Grey and Black No.1'?",
+			"answer": "James Abbott McNeill Whistler",
+			"answers": [
+				"Andy Warhol",
+				"Phillipe Stark"
+			]
+		}
+	]
+}
